@@ -106,7 +106,7 @@ li a{
 }
 .copy{
     color:  var(--Grayish-Blue);
-    margin-top: -4px;
+    margin-top: -10px;
 }
 .phones{
     width: 75%;
@@ -244,7 +244,7 @@ footer{
     text-decoration: none;
     color: var(--White);
 }
-.copyrig{
+.copyrigh{
     margin-top: 5%;
     display: flex;
     flex-direction: column;
