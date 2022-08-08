@@ -104,6 +104,9 @@ li a{
     margin-left: 34%;
     
 }
+button:hover{
+    cursor: pointer;
+}
 .copy{
     color:  var(--Grayish-Blue);
     margin-top: -10px;
